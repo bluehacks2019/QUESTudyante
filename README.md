@@ -1,6 +1,6 @@
 # QUESTudyante
 
-a mobile-responsive web application that can be used in school but we also bring it home because every students begin learning at home. It serves as a platform for parents to help their children to maximize their full potential. Parents could subscribe and create accounts for their children. Parents could set series of activity to hone their passion and skills, and be productive for the day. It can be for academics, for their health, for chores, etc. In exchange, children will request something to have some fruit for their hardwork because we believe that achieving small goals can be fulfilling emotionally, physically, psychologically, etc. They will always feel that they accomplished something that is what are self-esteem needs. This application can better us.
+a mobile-responsive web application that can be used in school but we also bring it home because every students begins learning at home. It serves as a platform for parents to help their children to maximize their full potential. Parents could subscribe and create accounts for their children. Parents could set series of activity to hone their passion and skills, and be productive for the day. It can be for academics, for their health, for chores, etc. In exchange, children will request something to have some fruit for their hardwork because we believe that achieving small goals can be fulfilling emotionally, physically, psychologically, etc. They will always feel that they accomplished something that is what are self-esteem needs. This application can better us.
 
 # Its Problem
 
